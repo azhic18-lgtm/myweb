@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyweb=self.webpackChunkmyweb||[]).push([["3220"],{1912(l){l.exports=JSON.parse('{"blogBasePath":"/fluxcola/blog","blogTitle":"Blog","authorsListPath":"/fluxcola/blog/authors"}')}}]);
